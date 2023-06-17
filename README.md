@@ -16,6 +16,7 @@
 -m 2048 \
 -d default \
 -p foo
+-k   /path/to/ssh/private_key
 
 ```
 

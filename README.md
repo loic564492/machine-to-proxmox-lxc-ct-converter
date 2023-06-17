@@ -1,7 +1,7 @@
 # convert any gnu/linux machine into a proxmox lxc container #
 
 #### root ssh access on target machine required ##### 
-#### run skript @proxmox host with root privileges ##### 
+#### run this script on the @proxmox host with root privileges ##### 
 
 ```
 ./convert.sh \

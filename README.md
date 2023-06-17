@@ -32,4 +32,5 @@
  -m|--memory [memory in mb]
  -d|--disk-storage [target proxmox storage pool]
  -p|--password [root password for container (min. 5 chars)]
+ -k  /path/to/ssh/private_key
 ```
